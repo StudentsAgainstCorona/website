@@ -11,7 +11,7 @@ PygmentsStyle = "monokai"
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = ""
 
-# googleAnalytics = ""
+googleAnalytics = "UA-161450732-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
