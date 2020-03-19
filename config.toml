@@ -132,7 +132,7 @@ disableHugoGeneratorInject = false
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     [[languages.nl.params.button]]
-      name = "Ik kan halp!"
+      name = "Ik kan helpen!"
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
       height = 400
     [[languages.nl.params.button]]
@@ -164,7 +164,7 @@ disableHugoGeneratorInject = false
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
       height = 400
     [[languages.de.params.button]]
-      name = "Ich brauche hilfe!"
+      name = "Ich brauche Hilfe!"
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
       height = 400
 
