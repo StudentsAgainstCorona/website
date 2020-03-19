@@ -5,7 +5,6 @@ aliases = ["about-us","contact"]
 [ author ]
   name = "Matthew Daiter"
 +++
-
  
 Students in towns and cities across the world are coming together to help out the most vulnerable members of our communities affected by the Covid-19 crisis.
  

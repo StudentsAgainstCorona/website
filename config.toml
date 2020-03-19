@@ -110,15 +110,6 @@ disableHugoGeneratorInject = false
     name = "instagram"
     url  = "https://www.instagram.com/studentsagainstcorona_official/"
 
-  [[params.button]]
-      name = "I can help!"
-      url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
-      height = 400
-
-  [[params.button]]
-      name = "I need help!"
-      url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
-      height = 400
 
 [languages]
   [languages.en]
@@ -126,24 +117,56 @@ disableHugoGeneratorInject = false
     homeSubtitle = "A Student-Led Initiative"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [[languages.en.params.button]]
+      name = "I can help!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
+      height = 400
+    [[languages.en.params.button]]
+      name = "I need help!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
+      height = 400
 
   [languages.nl]
     subtitle  = "Een Door Studenten Geleid Initiatief"
     homeSubtitle = "Een Door Studenten Geleid Initiatief"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [[languages.nl.params.button]]
+      name = "Ik kan halp!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
+      height = 400
+    [[languages.nl.params.button]]
+      name = "Ik wil hulp!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
+      height = 400
 
   [languages.fr]
     subtitle  = "Une initiative dirigée par les étudiants"
     homeSubtitle = "Une initiative dirigée par les étudiants"
-    weight    = 2
+    weight    = 3
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [[languages.fr.params.button]]
+      name = "Je peux aider!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
+      height = 400
+    [[languages.fr.params.button]]
+      name = "J'ai besoin d'aide!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
+      height = 400
 
   [languages.de]
     subtitle  = "Eine studentische Initiative"
     homeSubtitle = "Eine studentische Initiative"
-    weight    = 2
+    weight    = 4
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [[languages.de.params.button]]
+      name = "Ich kann helfen!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
+      height = 400
+    [[languages.de.params.button]]
+      name = "Ich brauche hilfe!"
+      url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
+      height = 400
 
 [menu]
   [[menu.main]]

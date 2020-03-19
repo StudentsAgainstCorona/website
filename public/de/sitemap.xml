@@ -3,11 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://StudentsAgainstCorona.co.uk/posts/1/01/</loc>
-  </url>
-  
-  <url>
-    <loc>http://StudentsAgainstCorona.co.uk/</loc>
+    <loc>http://StudentsAgainstCorona.co.uk/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://StudentsAgainstCorona.co.uk/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -23,19 +24,15 @@
                 hreflang="de"
                 href="http://StudentsAgainstCorona.co.uk/de/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://StudentsAgainstCorona.co.uk/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://StudentsAgainstCorona.co.uk/"
+                href="http://StudentsAgainstCorona.co.uk/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://StudentsAgainstCorona.co.uk/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://StudentsAgainstCorona.co.uk/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -51,23 +48,15 @@
                 hreflang="de"
                 href="http://StudentsAgainstCorona.co.uk/de/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://StudentsAgainstCorona.co.uk/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://StudentsAgainstCorona.co.uk/categories/"
+                href="http://StudentsAgainstCorona.co.uk/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://StudentsAgainstCorona.co.uk/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>http://StudentsAgainstCorona.co.uk/press/</loc>
-  </url>
-  
-  <url>
-    <loc>http://StudentsAgainstCorona.co.uk/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -82,11 +71,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://StudentsAgainstCorona.co.uk/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://StudentsAgainstCorona.co.uk/tags/"
                 />
   </url>
   

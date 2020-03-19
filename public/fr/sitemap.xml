@@ -16,6 +16,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://StudentsAgainstCorona.co.uk/fr/"
                 />
@@ -35,6 +40,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://StudentsAgainstCorona.co.uk/fr/categories/"
                 />
@@ -51,6 +61,11 @@
                 rel="alternate"
                 hreflang="nl"
                 href="http://StudentsAgainstCorona.co.uk/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
