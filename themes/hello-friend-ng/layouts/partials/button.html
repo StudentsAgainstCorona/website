@@ -1,0 +1,3 @@
+{{ range . -}}
+  <button type="button" style="width: 100%; height: 25%; font-size:450%;" onclick="window.open({{ .url }});"><strong>{{ .name }}</strong></button>
+{{- end }}

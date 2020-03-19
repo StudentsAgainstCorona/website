@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#StudentsAgainstCorona</title>
+    <link>http://StudentsAgainstCorona.co.uk/</link>
+    <description>Recent content on #StudentsAgainstCorona</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="http://StudentsAgainstCorona.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://StudentsAgainstCorona.co.uk/posts/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/posts/1/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://StudentsAgainstCorona.co.uk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/about/</guid>
+      <description>Students in towns and cities across the world are coming together to help out the most vulnerable members of our communities affected by the Covid-19 crisis.
+Whether it’s buying a carton of milk or walking the dog, there are simple tasks that people in isolation or at high-risk cannot perform on their own. We have a responsibility to both #flattenthecurve and take concrete action to lighten the burden on those most affected.</description>
+    </item>
+    
+    <item>
+      <title>Press</title>
+      <link>http://StudentsAgainstCorona.co.uk/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/press/</guid>
+      <description>For press: we need coverage to spread the word about Corona virus!
+Please send us an email here if you&amp;rsquo;d like to publish an article.</description>
+    </item>
+    
+  </channel>
+</rss>
