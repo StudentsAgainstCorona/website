@@ -181,6 +181,10 @@ disableHugoGeneratorInject = false
     identifier = "gofundme"
     name       = "Donate"
     url        = "https://www.gofundme.com/f/studentsagainstcorona-fund"
+  [[menu.main]]
+    identifier = "howcanihelp"
+    name       = "How Can I Help?"
+    url        = "how_can_i_help/"
 #  [[menu.main]]
 #    identifier = "posts"
 #    name       = "Posts"
