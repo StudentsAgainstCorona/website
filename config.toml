@@ -58,8 +58,6 @@ disableHugoGeneratorInject = false
   keywords = "Students, Corona, Oxford"
   images = [""]
 
-  #homeSubtitle = "A Student-Led Initiative"
-
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 
@@ -100,7 +98,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "facebook"
-    url  = "https://www.facebook.com/groups/485526048998480/"
+    url  = "/localities"
 
   [[params.social]]
     name = "whatsapp"
@@ -115,6 +113,7 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = "A Student-Led Initiative"
     homeSubtitle = "A Student-Led Initiative"
+    riskText = "<strong>Please be aware that recommended hygiene guidelines<br>are very serious as failure to adhere to them<br>could potentially put your life, and the lives of others, at risk.</strong>"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     [[languages.en.params.button]]
@@ -183,8 +182,12 @@ disableHugoGeneratorInject = false
     url        = "https://www.gofundme.com/f/studentsagainstcorona-fund"
   [[menu.main]]
     identifier = "howcanihelp"
-    name       = "How Can I Help?"
+    name       = "How"
     url        = "how_can_i_help/"
+  [[menu.main]]
+    identifier = "hygiene"
+    name       = "Hygiene"
+    url        = "hygiene/"
 #  [[menu.main]]
 #    identifier = "posts"
 #    name       = "Posts"

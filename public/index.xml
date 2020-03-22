@@ -20,12 +20,12 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Us</title>
       <link>http://StudentsAgainstCorona.co.uk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://StudentsAgainstCorona.co.uk/about/</guid>
-      <description>Students in towns and cities across the world are coming together to help out the most vulnerable members of our communities affected by the Covid-19 crisis.
+      <description>Students in towns and cities across the world are coming together to help out the most vulnerable members of our communities affected by the coronavirus crisis.
 Whether it’s buying a carton of milk or walking the dog, there are simple tasks that people in isolation or at high-risk cannot perform on their own. We have a responsibility to both #flattenthecurve and take concrete action to lighten the burden on those most affected.</description>
     </item>
     
@@ -37,7 +37,22 @@ Whether it’s buying a carton of milk or walking the dog, there are simple task
       <guid>http://StudentsAgainstCorona.co.uk/how_can_i_help/</guid>
       <description>With universities having closed around the world, several full-time students now find themselves free. The vast majority also happen to belong to a relatively low-risk group.
 There are several ways you can help vulnerable people in your community:
- Grabbing Groceries Walking Dogs Chatting Over the Phone And much more!  Follow Your Government’s Advice: It is vital that you adhere to the advice and measures that have been prescribed by your respective governments – washing your hands and social distancing are two simple examples.</description>
+ Grabbing Groceries Walking Dogs Chatting Over the Phone Picking Up Medicines And much more!  IMPORTANT: Please be aware that the recommended hygiene guidelines are very serious and failure to adhere to them could potentially put people’s lives at risk.</description>
+    </item>
+    
+    <item>
+      <title>Local Branches</title>
+      <link>http://StudentsAgainstCorona.co.uk/localities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/localities/</guid>
+      <description>Our local groups:
+StudentsAgainstCorona
+OxfordAgainstCorona
+LoughboroughAgainstCorona
+UtrechtAgainstCorona
+MontrealAgainstCorona
+ZurichAgainstCorona</description>
     </item>
     
     <item>
@@ -46,13 +61,32 @@ There are several ways you can help vulnerable people in your community:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://StudentsAgainstCorona.co.uk/press/</guid>
-      <description>For press: we need coverage to spread the word about Corona virus!
+      <description>Press: We need coverage to get the word out about what we are doing!
 Please send us an email here if you&amp;rsquo;d like to publish an article.
 Latest news articles:
 Cherwell - Oxford student founds Coronavirus help group
 BBC - Coronavirus: Oxford University students set up help group
 Oxford Mail - Students Against Coronavirus group to help isolated in Oxford
 The Mercury - How Leicestershire is fighting back as coronavirus takes hold</description>
+    </item>
+    
+    <item>
+      <title>Recommended Hygiene Guidelines for Volunteers</title>
+      <link>http://StudentsAgainstCorona.co.uk/hygiene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/hygiene/</guid>
+      <description>Please be aware that these recommended hygiene guidelines are very serious as failure to adhere to them could potentially put peoples lives at risk.  Before you start volunteering, please read this page carefully and watch the ‘Volunteering Hygiene Recommendation Video’. People are self-isolating to avoid health risks for themselves and others. This is especially important since you will be helping vulnerable members of our society who may be at a higher risk of experiencing severe symptoms as a result of COVID-19 or people who may carry the virus.</description>
+    </item>
+    
+    <item>
+      <title>T&amp;C</title>
+      <link>http://StudentsAgainstCorona.co.uk/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/terms/</guid>
+      <description>Disclaimer Data privacy disclaimer. By clicking ‘consent’ you agree for your data to be stored by the volunteer group StudentsAgainstCorona and any third-party organisations or persons that will facilitate or receive the volunteering. Please sign off on your consent of data sharing. You can withdraw your consent at any time by emailing studentsagainstcorona@gmail.com.
+We handle your data as carefully as possible, but because we cannot guarantee that the information you provide us with will never be passed on incorrectly, or will be passed on in general to any party, we ask that you agree to the declaration:</description>
     </item>
     
   </channel>

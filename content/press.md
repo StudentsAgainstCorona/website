@@ -6,7 +6,7 @@ aliases = ["press", "contact"]
   name = "Matthew Daiter"
 +++
 
-For press: we need coverage to spread the word about Corona virus!
+Press: We need coverage to get the word out about what we are doing!
 
 Please send us an email [here](mailto:studentsagainstcorona@gmail.com?Subject:Press%20Inquiries%20About%20Students%20Against%20Corona) if you'd like to publish an article.
 

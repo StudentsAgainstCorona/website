@@ -5,7 +5,8 @@
             {{ if .Site.Author.name }}
                 <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
             {{ end }}
-            <span>{{ .Site.Copyright| safeHTML }}</span>
+                <span>{{ .Site.Copyright| safeHTML }}</span>
+                <span><a href="{{ .Site.BaseURL }}/terms">T&C</a></span>
         </div>
     </div>
 </footer>
