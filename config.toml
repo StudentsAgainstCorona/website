@@ -124,7 +124,28 @@ disableHugoGeneratorInject = false
       name = "I need help!"
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
       height = 400
-
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "about/"
+    [[languages.en.menu.main]]
+      identifier = "press"
+      name       = "Press"
+      url        = "press/"
+    [[languages.en.menu.main]]
+      identifier = "gofundme"
+      name       = "Donate"
+      url        = "https://www.gofundme.com/f/studentsagainstcorona-fund"
+    [[languages.en.menu.main]]
+      identifier = "howcanihelp"
+      name       = "How"
+      url        = "how_can_i_help/"
+    [[languages.en.menu.main]]
+      identifier = "hygiene"
+      name       = "Hygiene"
+      url        = "hygiene/"
+    
   [languages.nl]
     subtitle  = "Een Door Studenten Geleid Initiatief"
     homeSubtitle = "Een Door Studenten Geleid Initiatief"
@@ -138,6 +159,27 @@ disableHugoGeneratorInject = false
       name = "Ik wil hulp!"
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
       height = 400
+  [languages.nl.menu]
+    [[languages.nl.menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "about/"
+    [[languages.nl.menu.main]]
+      identifier = "press"
+      name       = "Press"
+      url        = "press/"
+    [[languages.nl.menu.main]]
+      identifier = "gofundme"
+      name       = "Donate"
+      url        = "https://www.gofundme.com/f/studentsagainstcorona-fund"
+    [[languages.nl.menu.main]]
+      identifier = "howcanihelp"
+      name       = "How"
+      url        = "how_can_i_help/"
+    [[languages.nl.menu.main]]
+      identifier = "hygiene"
+      name       = "Hygiene"
+      url        = "hygiene/"
 
   [languages.fr]
     subtitle  = "Une initiative dirigée par les étudiants"
@@ -158,36 +200,38 @@ disableHugoGeneratorInject = false
     homeSubtitle = "Eine studentische Initiative"
     weight    = 4
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    riskText = "<strong>Bitte beachten Sie die empfohlenen Hygienerichtlinien<br> sind sehr ernst, da die Nichtbeachtung <br>Ihr Leben und das Leben anderer gefährden kann.</strong>"
     [[languages.de.params.button]]
-      name = "Ich kann helfen!"
+      name = "Ich möchte helfen!"
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSeOioW3JBFQaqzNXPtIA37VEzetC2myWQn9Kpg-De3aleKoig/viewform"
       height = 400
     [[languages.de.params.button]]
       name = "Ich brauche Hilfe!"
       url  = "https://docs.google.com/forms/d/e/1FAIpQLSfilkzFbiuRdC-eELYjzaj_I_DCqF7rUlcHlVYYEMjIThzxHQ/viewform"
       height = 400
+  [languages.de.menu]
+    [[languages.de.menu.main]]
+      identifier = "about"
+      name       = "Über"
+      url        = "about/"
+    [[languages.de.menu.main]]
+      identifier = "press"
+      name       = "Presse"
+      url        = "press/"
+    [[languages.de.menu.main]]
+      identifier = "gofundme"
+      name       = "Spenden"
+      url        = "https://www.gofundme.com/f/studentsagainstcorona-fund"
+    [[languages.de.menu.main]]
+      identifier = "howcanihelp"
+      name       = "Wie"
+      url        = "how_can_i_help/"
+    [[languages.de.menu.main]]
+      identifier = "hygiene"
+      name       = "Hygiene"
+      url        = "hygiene/"
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "press"
-    name       = "Press"
-    url        = "press/"
-  [[menu.main]]
-    identifier = "gofundme"
-    name       = "Donate"
-    url        = "https://www.gofundme.com/f/studentsagainstcorona-fund"
-  [[menu.main]]
-    identifier = "howcanihelp"
-    name       = "How"
-    url        = "how_can_i_help/"
-  [[menu.main]]
-    identifier = "hygiene"
-    name       = "Hygiene"
-    url        = "hygiene/"
+
 #  [[menu.main]]
 #    identifier = "posts"
 #    name       = "Posts"
