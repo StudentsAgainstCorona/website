@@ -10,5 +10,65 @@
 	<atom:link href="http://StudentsAgainstCorona.co.uk/de/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Empfohlene Hygienerichtlinien für Freiwillige</title>
+      <link>http://StudentsAgainstCorona.co.uk/de/hygiene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/de/hygiene/</guid>
+      <description>Bitte beachten Sie, dass diese empfohlenen Hygienerichtlinien sehr schwerwiegend sind, da die Nichtbeachtung diese möglicherweise das Leben von Menschen gefährden kann  Bevor Sie mit der Freiwilligenarbeit beginnen, lesen Sie diese Seite bitte sorgfältig durch und beachten Sie die ‘Volunteering Hygiene Recommendation Video’. Menschen isolieren sich selbst, um Gesundheitsrisiken für sich und andere zu vermeiden. Dies ist besonders wichtig, da Sie schutzbedürftigen Mitgliedern unserer Gesellschaft helfen, bei denen möglicherweise ein höheres Risiko besteht, dass aufgrund von COVID-19 schwere Symptome auftreten, oder bei Personen, die das Virus möglicherweise tragen.</description>
+    </item>
+    
+    <item>
+      <title>Local Branches</title>
+      <link>http://StudentsAgainstCorona.co.uk/de/localities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/de/localities/</guid>
+      <description>Our local groups:
+StudentsAgainstCorona
+OxfordAgainstCorona
+LoughboroughAgainstCorona
+UtrechtAgainstCorona
+MontrealAgainstCorona
+ZurichAgainstCorona</description>
+    </item>
+    
+    <item>
+      <title>Presse</title>
+      <link>http://StudentsAgainstCorona.co.uk/de/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/de/press/</guid>
+      <description>Presse: Wir brauchen Berichterstattung, um bekannt zu machen, was wir tun!
+Bitte senden Sie uns hier eine E-Mail, wenn Sie einen Artikel veröffentlichen möchten.
+Neueste Nachrichtenartikel:
+Cherwell - Oxford student founds Coronavirus help group
+BBC - Coronavirus: Oxford University students set up help group
+Oxford Mail - Students Against Coronavirus group to help isolated in Oxford
+The Mercury - How Leicestershire is fighting back as coronavirus takes hold</description>
+    </item>
+    
+    <item>
+      <title>Wie kann ich helfen</title>
+      <link>http://StudentsAgainstCorona.co.uk/de/how_can_i_help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/de/how_can_i_help/</guid>
+      <description>Nachdem die Universitäten auf der ganzen Welt geschlossen haben, sind jetzt mehrere Vollzeitstudenten frei. Die überwiegende Mehrheit gehört zufällig auch zu einer Gruppe mit relativ geringem Risiko.
+Es gibt verschiedene Möglichkeiten, wie Sie schutzbedürftigen Menschen in Ihrer Gemeinde helfen können:
+ Lebensmittel kaufen Gehende Hunde Über das Telefon chatten Medikamente abholen Und vieles mehr!  IMPORTANT: Please be aware that the recommended hygiene guidelines are very serious and failure to adhere to them could potentially put people’s lives at risk.</description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>http://StudentsAgainstCorona.co.uk/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://StudentsAgainstCorona.co.uk/de/about/</guid>
+      <description>Studenten in Städten auf der ganzen Welt kommen zusammen, um den am stärksten gefährdeten Mitgliedern unserer Gemeinschaft zu helfen, die von der Covid-19-Krise betroffen sind.
+Ob es darum geht, einen Karton Milch kaufen oder mit dem Hund spazieren gehen, es gibt einfache Aufgaben, die isolierte Menschen oder jene mit hohem Risiko nicht alleine ausführen können. Wir sind dafür verantwortlich, sowohl die Ansteckungskurve flach zu halten als auch konkrete Maßnahmen zu ergreifen, um die Belastung der am stärksten Betroffenen zu verringern.</description>
+    </item>
+    
   </channel>
 </rss>

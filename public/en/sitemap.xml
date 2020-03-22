@@ -32,6 +32,16 @@
   
   <url>
     <loc>http://StudentsAgainstCorona.co.uk/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://StudentsAgainstCorona.co.uk/about/"
+                />
   </url>
   
   <url>
@@ -60,10 +70,30 @@
   
   <url>
     <loc>http://StudentsAgainstCorona.co.uk/how_can_i_help/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/how_can_i_help/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://StudentsAgainstCorona.co.uk/how_can_i_help/"
+                />
   </url>
   
   <url>
     <loc>http://StudentsAgainstCorona.co.uk/localities/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/localities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://StudentsAgainstCorona.co.uk/localities/"
+                />
   </url>
   
   <url>
@@ -72,10 +102,30 @@
   
   <url>
     <loc>http://StudentsAgainstCorona.co.uk/press/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/press/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://StudentsAgainstCorona.co.uk/press/"
+                />
   </url>
   
   <url>
     <loc>http://StudentsAgainstCorona.co.uk/hygiene/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://StudentsAgainstCorona.co.uk/de/hygiene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://StudentsAgainstCorona.co.uk/hygiene/"
+                />
   </url>
   
   <url>
