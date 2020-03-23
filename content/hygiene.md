@@ -9,13 +9,11 @@ aliases = ["Hygiene"]
 #### *Please be aware that these recommended hygiene guidelines are very serious as failure to adhere to them could potentially put peoples lives at risk.*
 --------
 
-Before you start volunteering, please read this page carefully and watch the [‘Volunteering Hygiene Recommendation Video’](#volunteering-hygiene-video). People are self-isolating to avoid health risks for themselves and others. This is especially important since you will be helping vulnerable members of our society who may be at a higher risk of experiencing severe symptoms as a result of COVID-19 or people who may carry the virus. These two groups should not come into contact with one another. We must do our very best to maintain the necessary social distancing while helping our communities.  
-
-All recommended hygiene guidelines below, including our [‘Volunteering Hygiene Recommendation Video’](#volunteering-hygiene-video) have been reviewed by health care professionals for your safety and the safety of the people you are helping.
+Before you start volunteering, please read this page carefully and watch the [‘Volunteering Hygiene Recommendation Video’](#volunteering-hygiene-video). People are self-isolating to avoid health risks for themselves and others. This is especially important since you will be helping vulnerable members of our society who may be at a higher risk of experiencing severe symptoms as a result of COVID-19 or people who may carry the virus. These two groups should not come into contact with one another. We must do our very best to maintain the necessary social distancing while helping our communities.
 
 All recommended hygiene guidelines below, including our ‘Volunteering Hygiene Recommendation Video’ have been reviewed by health care professionals and approved by [Professor Mayur Lakhani](https://www.westleicestershireccg.nhs.uk/your-ccg/board-members/18-your-ccg/board-members/100-professor-mayur-lakhani-ccg-chair) (Immediate Past President of the Royal College of GPs) for your safety and the safety of the people you are helping.
 
-__At all times your own government's advice is to be followed. This page merely offers a recommendation of how to apply these guidelines when volunteering.__ This page merely offers a recommendation of how to apply these guidelines when volunteering.
+__At all times your own government's advice is to be followed. This page merely offers a recommendation of how to apply these guidelines when volunteering.__
 
 #DontBeASpreader #FlattenTheCurve 
 
