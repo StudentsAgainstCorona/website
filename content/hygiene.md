@@ -13,12 +13,14 @@ Before you start volunteering, please read this page carefully and watch the [�
 
 All recommended hygiene guidelines below, including our [‘Volunteering Hygiene Recommendation Video’](#volunteering-hygiene-video) have been reviewed by health care professionals for your safety and the safety of the people you are helping.
 
+All recommended hygiene guidelines below, including our ‘Volunteering Hygiene Recommendation Video’ have been reviewed by health care professionals and approved by [Professor Mayur Lakhani](https://www.westleicestershireccg.nhs.uk/your-ccg/board-members/18-your-ccg/board-members/100-professor-mayur-lakhani-ccg-chair) (Immediate Past President of the Royal College of GPs) for your safety and the safety of the people you are helping.
+
 __At all times your own government's advice is to be followed. This page merely offers a recommendation of how to apply these guidelines when volunteering.__ This page merely offers a recommendation of how to apply these guidelines when volunteering.
 
 #DontBeASpreader #FlattenTheCurve 
 
 #### Volunteering Hygiene Recommendation Video:
-{{< youtube qyjgfGrB6Tc >}}
+{{< youtube 5eh0PHfF45o >}}
 *An enormous thank you to [Jenni Dermaux](https://instagram.com/jennidermaux) for animating this video and [KLOAQ audiodesign](https://instagram.com/kloaq_audiodesign) for creating the audio pro bono and in such an incredibly short time.*
 
 For a step by step guide of volunteering tasks with recommended hygiene precautions click [here](https://drive.google.com/open?id=1wBgHUCbxDhMbYcfwhDqkBIffTvKZrojp).
@@ -31,7 +33,7 @@ For a step by step guide of volunteering tasks with recommended hygiene precauti
 2. Wash your hands before and after every task you perform (video below).
 {{< youtube 4ij1I0OB2hk >}}
 
-3. Keep 1.5 meters (5 feet) distance to everyone, especially the person you are helping but also the other volunteers.
+3. Keep 2 meters (6 feet) distance to everyone, especially the person you are helping but also the other volunteers.
 ![Social Distancing](/imgs/social_distancing.png)
 
 4. Do not touch your face or other people, especially the person you are helping.
