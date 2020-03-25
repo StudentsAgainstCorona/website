@@ -6,7 +6,7 @@ aliases = ["press", "contact"]
   name = "Matthew Daiter"
 +++
 
-Presse: Wir brauchen Berichterstattung, um bekannt zu machen, was wir tun!
+Presse: Wir suchen nach einer verstärkten Berichterstattung in den Medien über unsere Bewegung, um sicherzustellen, dass schutzbedürftige Menschen die Unterstützung erhalten, die sie benötigen!
 
 Bitte senden Sie uns [hier](mailto:studentsagainstcorona@gmail.com?Subject:Press%20Inquiries%20About%20Students%20Against%20Corona) eine E-Mail, wenn Sie einen Artikel veröffentlichen möchten.
 
